@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "789128893570",
+    "firebase_url": "https://prj57-ede89.firebaseio.com",
+    "project_id": "prj57-ede89",
+    "storage_bucket": "prj57-ede89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789128893570:android:0f886f2f0bd040d7",
+        "android_client_info": {
+          "package_name": "com.imanity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789128893570-j41k609knsdto6b140epid5vudbgsda5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCLdszoN4w9YZvX64B_TTM493PyEv0yk4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
